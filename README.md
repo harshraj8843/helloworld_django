@@ -1,4 +1,4 @@
-Github link - https://github.com/Neukcode/helloworld
+Github link - https://github.com/neukcode/helloworld_django
 
 ##### Hello everyone, this is just a sample helloworld DJANGO project
 
