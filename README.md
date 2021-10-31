@@ -1,18 +1,12 @@
-
 <h3 align="center">Hello World Django</h3>
 
 ---
-
-<p align="center"> A simple Hello World Project in Django
-    <br> 
-</p>
 
 ## 📝 Table of Contents
 
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Built Using](#built_using)
-- [Authors](#authors)
 
 ## 🧐 About <a name = "about"></a>
 
@@ -22,7 +16,7 @@ A simple Hello World Project in Django.
 
 - clone project
   ```
-  git clone https://github.com/harshraj8843/helloworld_django
+  git clone https://github.com/novicexp/helloworld_django
   ```
   ```
   cd helloworld_django/
@@ -43,7 +37,3 @@ A simple Hello World Project in Django.
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [DJANGO](https://www.djangoproject.com/) - Backend Framework
-
-## ✍️ Authors <a name = "authors"></a>
-
-- [@harshraj8843](https://github.com/harshraj8843)
