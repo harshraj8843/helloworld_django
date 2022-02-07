@@ -16,7 +16,7 @@ A simple Hello World Project in Django.
 
 - clone project
   ```
-  git clone https://github.com/novicexp/helloworld_django
+  git clone https://github.com/harshraj8843/helloworld_django
   ```
   ```
   cd helloworld_django/
